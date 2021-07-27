@@ -1,4 +1,4 @@
-### Hola, I'm Tushar korade👋
+### Hola, I'm Tushar 👋
 
 - 🔭 I’m currently working on Sugar Factory Website
 - 🌱 I’m currently learning to diploy the website
