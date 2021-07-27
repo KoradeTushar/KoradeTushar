@@ -1,7 +1,7 @@
 ### Hola, I'm Tushar 👋
 
 - 🔭 I’m currently working on Sugar Factory Website
-- 🌱 I’m currently learning to diploy the website
+- 🌱 I’m currently learning to deploy the website
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Core Java & OOPS
