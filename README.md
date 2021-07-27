@@ -10,4 +10,4 @@
 - ⚡ Fun fact: 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KoradeTushar&&show_icons=true&title_color=00c4e2&icon_color=00c4e2&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=KoradeTushar&&show_icons=true&title_color=00c4e2&icon_color=fad400&text_color=daf7dc&bg_color=151515">
