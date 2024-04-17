@@ -4,5 +4,3 @@ Passionate about building innovative solutions, I've worked on impactful project
 
 Continuously learning and staying updated with emerging technologies, I'm eager to contribute my skills to meaningful projects. Let's connect and explore exciting opportunities to drive innovation together.
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=KoradeTushar&&show_icons=true&title_color=00c4e2&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
